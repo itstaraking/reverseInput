@@ -1,0 +1,6 @@
+C:\Users\MRSWHITE\Desktop\CSC 253\reverseInputCSharp\reverseInputCSharp\bin\Debug\reverseInputCSharp.exe.config
+C:\Users\MRSWHITE\Desktop\CSC 253\reverseInputCSharp\reverseInputCSharp\bin\Debug\reverseInputCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\reverseInputCSharp\reverseInputCSharp\bin\Debug\reverseInputCSharp.pdb
+C:\Users\MRSWHITE\Desktop\CSC 253\reverseInputCSharp\reverseInputCSharp\obj\Debug\reverseInputCSharp.csprojResolveAssemblyReference.cache
+C:\Users\MRSWHITE\Desktop\CSC 253\reverseInputCSharp\reverseInputCSharp\obj\Debug\reverseInputCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\reverseInputCSharp\reverseInputCSharp\obj\Debug\reverseInputCSharp.pdb
